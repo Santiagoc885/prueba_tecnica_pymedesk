@@ -36,7 +36,7 @@ Mantén la solución pequeña. No se requiere despliegue, documentación extensa
 
 ## Entrega
 
-Comparte el enlace a tu repositorio con los cambios y un video de **2–4 minutos** donde muestres la aplicación, expliques el problema encontrado, tu solución y cómo comprobaste el resultado. Puedes usar asistentes de IA durante todo el ejercicio.
+### LINK: https://drive.google.com/file/d/1Navzz_JkaEVQ3Y5ApIQ3oohja5s_lVOd/view?usp=sharing
 
 ## Notas de la solución
 
@@ -64,4 +64,4 @@ if cur.rowcount == 0:
     # releer el pedido y responder 404 o 409 según corresponda
 ```
 
-Se dejó fuera para mantener la solución pequeña, como pide el enunciado.
+
