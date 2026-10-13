@@ -1,0 +1,10 @@
+[
+{"id":1,"customer":"Laura Gómez","total":125000,"status":"pendiente"},
+{"id":2,"customer":"Andrés Rojas","total":89900,"status":"enviado"},
+{"id":3,"customer":"Camila Torres","total":45000,"status":"cancelado"},
+{"id":4,"customer":"Sofía Martínez","total":210500,"status":"pendiente"},
+{"id":5,"customer":"Mateo Herrera","total":67000,"status":"enviado"},
+{"id":6,"customer":"Valentina Díaz","total":154900,"status":"pendiente"},
+{"id":7,"customer":"Daniel Castro","total":32900,"status":"cancelado"},
+{"id":8,"customer":"Isabella Pérez","total":98000,"status":"pendiente"}
+]
